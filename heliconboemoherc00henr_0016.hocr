@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./heliconboemoherc00henr_0016.png"; bbox 0 0 2647 3459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 310 1365 2030 1552">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 310 1365 2030 1552">
+     <span class='ocr_line' id='line_1_1' title="bbox 310 1365 2030 1552; baseline 0.008 -57"><span class='ocrx_word' id='word_1_1' title='bbox 310 1365 2030 1552; x_wconf 42' lang='grc' dir='ltr'>(ᾓηωωωῧωωήήηᾱρηη</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 291 1443 2101 1900">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 291 1443 2046 1900">
+     <span class='ocr_line' id='line_1_2' title="bbox 291 1443 1930 1737; baseline 0.007 -31"><span class='ocrx_word' id='word_1_2' title='bbox 291 1443 702 1737; x_wconf 56' lang='lat' dir='ltr'>LEOP</span> <span class='ocrx_word' id='word_1_3' title='bbox 716 1604 1189 1716; x_wconf 56' lang='grc' dir='ltr'>Φωκῆς</span> <span class='ocrx_word' id='word_1_4' title='bbox 1219 1566 1930 1717; x_wconf 59' lang='lat' dir='ltr'>IGNfflvS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 322 1752 2101 1900; baseline 0.001 -29"><span class='ocrx_word' id='word_1_5' title='bbox 322 1767 494 1860; x_wconf 92' lang='grc' dir='ltr'>Ρ</span> <span class='ocrx_word' id='word_1_6' title='bbox 441 1779 837 1900; x_wconf 67' lang='lat' dir='ltr'>1101me</span> <span class='ocrx_word' id='word_1_7' title='bbox 858 1797 1329 1872; x_wconf 64' lang='lat' dir='ltr'>OHEMIAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 1365 1764 1923 1881; x_wconf 51' lang='lat' dir='ltr'>&amp;mmmm</span> <span class='ocrx_word' id='word_1_9' title='bbox 1942 1752 2101 1887; x_wconf 86' lang='lat' dir='ltr'>L·9</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 333 1903 1893 2102">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 333 1903 1893 2102">
+     <span class='ocr_line' id='line_1_4' title="bbox 333 1903 1893 2102; baseline 0.001 -52.115"><span class='ocrx_word' id='word_1_10' title='bbox 333 1903 1893 2102; x_wconf 32' lang='lat' dir='ltr'>,LEOPOLDORWMJQ,</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
